@@ -33,7 +33,7 @@ const Experience = () => {
               fontFamily: "inherit",
             }}
           >
-            JAN - MAY 2023
+            FEB 2024 - PRESENT
           </Typography>
         </Box>
         <Box sx={{ width: "calc(75% - 1rem)" }}>
@@ -46,7 +46,7 @@ const Experience = () => {
               color: isCardHovered ? "rgb(94, 234, 212)" : "white",
             }}
           >
-            Coding Ninjas
+            Zeitview (formely dronebase)
           </Typography>
           <Typography
             sx={{
@@ -56,7 +56,7 @@ const Experience = () => {
               color: "rgb(148, 163, 184)",
             }}
           >
-            Teaching Assistant | Internship
+            Internship
           </Typography>
           <Typography
             sx={{
@@ -68,13 +68,23 @@ const Experience = () => {
               textAlign: isTabletScreens ? "justify" : "",
             }}
           >
-            Guided and mentored students on best practices in web development to
-            successfully complete projects and enhance their skills. Facilitated
-            group discussions and provided constructive feedback to improve
-            student comprehension of key concepts, resulting in increased
-            engagement and active participation. In addition, I collaborated
-            with students to identify their individual learning goals and
-            tailored my guidance accordingly.
+            Took complete ownership in developing dynamic and responsive web
+            applications using ReactJs and TypeScript, significantly improving
+            user experience, code maintainability, and application performance.
+            Led the implementation of state management using React Tanstack
+            Query and Context API, resulting in improved data handling,
+            application stability, and performance, while reducing redundant API
+            calls. Spearheaded the design and development of UI components,
+            including user forms with integrated validation, using Mantine UI to
+            create a consistent, visually appealing, and accessible user
+            interface across platforms. Collaborated closely with backend
+            developers to integrate APIs, ensuring seamless data flow and
+            synchronisation between frontend and backend services.Independently
+            developed and maintained complex data tables using React Tanstack
+            Table for efficient data visual- isation and enhanced user
+            interaction.Led efforts to improve test coverage by writing and
+            executing comprehensive end-to-end tests with Playwright, reducing
+            bug reports and mitigating regression issues.
           </Typography>
         </Box>
       </Box>
