@@ -142,7 +142,7 @@ const Homepage = () => {
               textDecoration: "none",
             }}
           >
-            <Link to="https://github.com/gauravmasalkar405">
+            <Link to="https://github.com/gauravm406">
               <GitHubIcon
                 sx={{
                   color: "rgb(148, 163, 184)",

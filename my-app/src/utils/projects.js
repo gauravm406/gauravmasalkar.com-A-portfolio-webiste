@@ -1,10 +1,18 @@
 const projects = [
   {
-    name: `Ecommerce store - Full stack`,
-    path: "https://papaya-flan-71f350.netlify.app",
+    name: `Decorshop.com - Full stack`,
+    path: "https://starlit-boba-8d5fb7.netlify.app",
     description:
-      "Developed a full-stack e-commerce application with a feature-rich shopping cart, product reviews and ratings, top products carousel, and user profile with order history. Implemented robust admin functionalities, empowering administrators with seamless product and user management capabilities. This includes an order management system with an interactive order details page and an option to mark orders as delivered, streamlining the order fulfillment process. Implemented a secure user authentication and authorization system, ensuring only authorized users can access protected features and perform actions. Seamless checkout process with shipping and payment method selection, integrated with PayPal and credit card payment systems.Utilized database seeder to populate the application with sample products and users, enhancing testing and demonstration capabilities.",
-    imageSrc: require("../assets/ecommerce_full_stack.png"),
+      "Developed a full-stack e-commerce application with a feature-rich shopping cart, product reviews and ratings, a top products carousel, and a user profile with order history. Implemented robust admin functionalities for seamless product and user management, including an order management system with an interactive order details page and an option to mark orders as delivered. Ensured secure user authentication and authorization, restricting access to protected features. Designed a seamless checkout process with shipping and payment method selection, integrating PayPal and credit card payments. Utilized a database seeder to populate the application with sample products and users for testing and demonstration.",
+    imageSrc: require("../assets/decorshop.png"),
+  },
+  {},
+  {
+    name: `Hirely.com - Full stack`,
+    path: "https://papaya-beignet-f92379.netlify.app",
+    description:
+      "The job portal project provides a comprehensive platform for users and administrators, allowing users to register, log in, browse job listings, apply by submitting resumes, and bookmark jobs for future reference, with a dashboard for tracking applications and saved jobs. Administrators can post job opportunities, manage applications, and access a dashboard with key metrics on job listings, applications, and user registrations. Built with a React.js frontend, a backend framework for server-side logic, and a secure database, the system ensures authentication, HTTPS security, input validation, and protection against web vulnerabilities. Additional features include user profiles for updating personal information, a notification system for application updates, and a RESTful API for seamless frontend-backend communication. With a responsive design and thorough documentation, the job portal delivers a secure, user-friendly experience for applicants and administrators, streamlining job applications and management.",
+    imageSrc: require("../assets/hirely.png"),
   },
   {
     name: `User Aadmin Dashboard`,
